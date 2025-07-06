@@ -1,15 +1,15 @@
-Hello Darking here 
+ 
 # 🖼️ NFT Minter & Viewer dApp
 
-This is a full-stack Web3 dApp that allows users to **mint their own NFTs** and **view them** via a simple React interface. Built using **Solidity**, **Hardhat**, and **React**, this project is deployed to the **Polygon Mumbai Testnet**.
+a full-stack web3 dApp that let the user to mint their own NFT and view it via React interface. Built using **Solidity**, **Hardhat**, and **React**, deployed on **Polygon Mumbai Testnet**.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 Connect MetaMask wallet
+- 🔐 Connect with MetaMask wallet
 - 🧠 Mint custom NFTs (ERC-721)
-- 🔗 Input metadata URI (e.g., IPFS-hosted images)
+- 🔗 Input metadata URI 
 - 📤 Deploy smart contract to testnet
 - 💻 View wallet-owned NFTs in-app
 
@@ -114,24 +114,6 @@ npm install
 ```bash
 npm start
 ```
-
----
-
-## 🧪 Optional: Uploading NFTs to IPFS
-
-Use services like [Pinata](https://pinata.cloud/) or [NFT.storage](https://nft.storage/) to upload your image and metadata.
-
-Example metadata format:
-
-```json
-{
-  "name": "My NFT",
-  "description": "A cool NFT",
-  "image": "ipfs://<your-image-cid>"
-}
-```
-
-Paste the metadata URI into the input field in the app to mint.
 
 ---
 
