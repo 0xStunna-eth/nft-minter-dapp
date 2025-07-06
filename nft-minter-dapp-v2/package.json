@@ -1,0 +1,15 @@
+
+{
+  "name": "nft-minter-dapp",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx hardhat test",
+    "deploy": "npx hardhat run scripts/deploy.js --network mumbai"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.9.2",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.17.1"
+  }
+}
