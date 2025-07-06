@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { ethers } from 'ethers';
 import MyNFT from './MyNFT.json';
 
-const contractAddress = "PASTE_YOUR_CONTRACT_ADDRESS_HERE";
+const contractAddress = "";
 
 function App() {
   const [account, setAccount] = useState('');
