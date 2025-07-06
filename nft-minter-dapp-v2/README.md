@@ -135,17 +135,6 @@ Paste the metadata URI into the input field in the app to mint.
 
 ---
 
-## 📸 Screenshots
-
-> _(Add your own screenshots here once the app is running!)_
-
----
-
-## 🧠 License
-
-MIT License © 2025 [0xStunna-eth](https://github.com/0xStunna-eth)
-
----
 
 ## 🙌 Acknowledgements
 
